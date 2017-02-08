@@ -19,4 +19,4 @@ if __name__ == '__main__':
         elif values[0] == "pop":
             arr.pop()
         elif values[0] == "reverse":
-            arr.sort(reverse=True)
+            arr.reverse()
